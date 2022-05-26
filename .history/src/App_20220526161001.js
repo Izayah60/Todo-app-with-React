@@ -7,7 +7,6 @@ function App() {
       <Todo title='Learn React'/>
       <Todo title='Read Articles On React'/>
       <Todo title='Build Something With React'/>
-      <Todo title='Understand React More Indeptly'/>
     </div>
   );
 }
